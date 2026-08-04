@@ -3,6 +3,7 @@
 ## Test 1: "Add to Favourites" Button on Business Card
 
 | | |
+|---|---|
 | **Start date** | TBD |
 | **End date** | TBD |
 | **Owner** | Viktoriia Serkova |
