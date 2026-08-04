@@ -61,7 +61,7 @@ Gives users a natural reason to come back.
 Gives new users a quality benchmark, builds trust in business profiles, and 
 creates an additional incentive to return after interacting with a business.
 
-**#5 — Optimize the mobile experience.**  
+**#5 Optimize the mobile experience.**  
 The gap in page depth between desktop (3.2 pages) and mobile (1.8 pages) 
 suggests mobile navigation friction. Recommend a dedicated UX review of the 
 mobile catalog and profile pages.
