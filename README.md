@@ -3,7 +3,7 @@
 Team MVP project: an aggregator platform for pet businesses in Kyiv 
 (vet clinics, pet shops, grooming salons). 
 
-My role — data analyst: 
+The job I did as a *data analyst*: 
 database design, SQL analysis, dashboarding, and behavioral analytics.
 
 ⚠️ Data note: insights are based on a small sample and short time window, collected manually from open sources. Not representative of the full market.
