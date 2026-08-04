@@ -1,4 +1,4 @@
-# 🐾 Pawly — Data Analytics for a Pet Services Platform
+# 🐾 Pawly -- Data Analytics for a Pet Services Platform
 
 Team MVP project: an aggregator platform for pet businesses in Kyiv 
 (vet clinics, pet shops, grooming salons). 
