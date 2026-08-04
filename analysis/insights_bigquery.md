@@ -12,7 +12,7 @@
 ### Geographic distribution: central concentration, empty periphery
 Most businesses are clustered in central and near-central Kyiv, while 
 residential districts show only sparse or empty coverage. This is expected 
-for manually collected data — businesses that are easier to find online 
+for manually collected data: businesses that are easier to find online 
 have typically already invested in promotion. The real market is likely 
 broader than the platform shows; vet clinics, pet shops, and grooming 
 salons in residential areas probably exist but weren't captured due to 
