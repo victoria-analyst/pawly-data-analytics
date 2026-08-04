@@ -4,19 +4,19 @@
 
 ### 1. Birth date is filled in for only a small share of pets
 Across the general dataset, `birth_date`, `age_years`, and `age_months` are 
-null for nearly all records — real birth dates exist only for a handful. 
+null for nearly all records, so real birth dates exist only for a handful. 
 This makes it currently impossible to reliably calculate age or birthdays 
-for most pets in the system — the field is either not required at 
+for most pets in the system: the field is either not required at 
 registration or owners largely skip it.
 
 ### 2. Most owners have only one pet
 The `owner_type` segment is dominated by "1 pet," with a few owners having 
-3–4. This limits the addressable audience for any multi-pet promotions to 
+3-4. This limits the addressable audience for any multi-pet promotions to 
 a narrow segment.
 
 ### 3. "Common pets" dominate the portfolio
 Cats and dogs make up the majority of records; exotic pets (rodents, fish, 
-birds) are a minority. This should inform assortment and content planning — 
+birds) are a minority. This should inform assortment and content planning: 
 mass campaigns should target cat/dog owners, while exotic pet owners need 
 separate, narrower content.
 
@@ -29,11 +29,9 @@ these results.
 
 ## Findings & Recommendations
 
-**№1. Make birth date mandatory or incentivize filling it in.**  
+**№1. Incentivize filling birth date in.**  
 The "birthday shoutout" concept doesn't scale yet due to missing data. 
-Recommendation: require `birth_date` at registration for new pets; for 
-existing ones, run a push/email campaign ("add your pet's birthday and get 
-a birthday shoutout").
+Recommendation: run a push campaign with a reminder ("please add your pet's birthday").
 
 **№2. Launch an automated birthday campaign.**  
 Once birth date coverage improves, set up automated email/push messages on 
