@@ -39,7 +39,7 @@ experience likely needs UX attention to close this gap.
 
 ## Key Findings & Recommendations
 
-**#1 SEO is the biggest growth blocker, needs immediate attention.**  
+**№1 SEO is the biggest growth blocker, needs immediate attention.**  
 Only 1 of 86 visitors arrived via organic search. Before investing further 
 in ad-driven monetization, this needs fixing: rebrand or add a unique 
 tagline to meta tags, set up title/description/schema markup per business 
@@ -47,17 +47,17 @@ page (also improves rich snippet chances), register the site in Google
 Search Console, and consider a more distinctive domain/brand name if the 
 current one is already taken by competitors.
 
-**#2 Verify Google Ads campaign attribution.**  
+**№2 Verify Google Ads campaign attribution.**  
 Since paid traffic isn't showing as a distinct channel, check UTM tagging 
 on ad links and PostHog configuration before the next campaign — without 
 this, ad spend ROI can't be evaluated.
 
-**#3 Build retention features to drive return visits.**  
+**№3 Build retention features to drive return visits.**  
 Add a "Favourites" page where users can save businesses and receive 
 email/push reminders ("you saved this place — check their current offers"). 
 Gives users a natural reason to come back.
 
-**#4 Add review/rating prompts after a visit.**  
+**№4 Add review/rating prompts after a visit.**  
 Gives new users a quality benchmark, builds trust in business profiles, and 
 creates an additional incentive to return after interacting with a business.
 
