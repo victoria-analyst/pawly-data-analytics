@@ -18,9 +18,9 @@ database design, SQL analysis, dashboarding, and behavioral analytics.
 - Presented findings in a live demo
 
 ## 🔗 Links
-- Tableau Dashboard: [insert link]
+- Tableau Dashboard: https://public.tableau.com/views/Book2_17832943278890/BusinessesAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - PostHog Analytics: https://eu.posthog.com/shared/5uBn7-pX5DqRN29iwugzg2whb5krgA
-- Database schema: [`/schema/pawly_db_schema.png`](schema/pawly_db_schema.png)
+- Database schema: [`/schema/pawly_db_schema.pdf`](schema/pawly_db_schema.pdf)
 - A/B Test Plan: [`/analysis/ab_test_plan.md`](analysis/ab_test_plan.md)
 
 ## 🔑 Key Insights
