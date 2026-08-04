@@ -53,23 +53,23 @@ information availability rather than business quality.
 
 ## Key Findings & Recommendations
 
-**№1 Exotic pet grooming is an untapped niche.**  
+**№1. Exotic pet grooming is an untapped niche.**  
 Once the platform actively recruits businesses post-launch, prioritize 
 grooming salons that specialize (or are willing to specialize) in exotic 
 pets. First mover in this niche gains a clear competitive edge.
 
-**№2 Expand geographically beyond the center.**  
+**№2. Expand geographically beyond the center.**  
 Once self-registration is live, run local marketing campaigns in 
 residential districts — local community groups, courtyard ads, 
 partnerships with neighborhood pet shops — to fill in the map and make the 
 platform useful citywide.
 
-**№3 Add onboarding prompts for profile completion.**  
+**№3. Add onboarding prompts for profile completion.**  
 A LinkedIn-style progress bar during self-registration would raise the 
 share of 5/5 profiles from day one rather than after the fact, building 
 user trust immediately.
 
-**№4 Explore "specialization" as a distinct business model.**  
+**№4. Explore "specialization" as a distinct business model.**  
 Clinics with the most services (7–8) vs. the fewest (2–3) may represent 
 two different strategies — generalist vs. specialist (e.g., dentistry- or 
 surgery-only). Worth investigating in a future iteration: do specialized 
