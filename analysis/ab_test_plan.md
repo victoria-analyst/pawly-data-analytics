@@ -3,7 +3,6 @@
 ## Test 1: "Add to Favourites" Button on Business Card
 
 | | |
-|---|---|
 | **Start date** | TBD |
 | **End date** | TBD |
 | **Owner** | Viktoriia Serkova |
@@ -70,4 +69,28 @@ by **10%**, particularly within the exotic pet owner segment.
 If we add an "Animal Type" filter (including an "accepts exotic pets" 
 option) to the catalog page, the catalog-to-profile click-through rate will 
 increase by 10%, because users will be able to immediately filter out 
-irrelevant businesses and find one that
+irrelevant businesses and find one that serves their pet type faster.
+
+> **Note:** Conversion may also be affected by the overall number of 
+> businesses in the catalog — in categories with few listings, the filter's 
+> effect will be less noticeable simply due to limited choice.
+
+### Variants
+- **A (Control):** catalog without the "Animal Type" filter
+- **B (Treatment):** catalog with the "Animal Type" / "accepts exotic pets" filter
+
+### Sample
+- **Target audience:** all users visiting the business catalog page
+- **Traffic split:** 50% A / 50% B
+
+### Metrics
+- **Primary:** catalog-to-profile click-through rate (business profile views / catalog sessions)
+- **Secondary:** catalog bounce rate (share of sessions with no interaction — no filter applied, no profile visited)
+
+### Test Plan
+Two groups will participate: 50% of users will see the catalog without the 
+"Animal Type" filter, 50% — with it. Test duration will be determined by 
+the sample size required to detect a 15% lift in catalog-to-profile CTR at 
+the target statistical power, with a separate analysis of the segment that 
+applied the exotic-pet filter. Data will be collected via PostHog and 
+Google BigQuery.
