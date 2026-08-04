@@ -29,23 +29,23 @@ these results.
 
 ## Findings & Recommendations
 
-**#1 — Make birth date mandatory or incentivize filling it in.**  
+**№1 Make birth date mandatory or incentivize filling it in.**  
 The "birthday shoutout" concept doesn't scale yet due to missing data. 
 Recommendation: require `birth_date` at registration for new pets; for 
 existing ones, run a push/email campaign ("add your pet's birthday and get 
 a birthday shoutout").
 
-**#2 — Launch an automated birthday campaign.**  
+**№2 Launch an automated birthday campaign.**  
 Once birth date coverage improves, set up automated email/push messages on 
 a pet's birthday with a personalized offer or discount — a simple, 
 low-cost retention lever.
 
-**#3 — Introduce "Oldest/Youngest Pet of the Month."**  
+**№3 Introduce "Oldest/Youngest Pet of the Month."**  
 Once enough birth dates accumulate, regularly (e.g., monthly) highlight the 
 platform's oldest and youngest pets publicly — a gamification element that 
 encourages full profile completion and repeat visits.
 
-**#4 — Segment communication by pet type.**  
+**№4 Segment communication by pet type.**  
 Since the base is dominated by cats and dogs, split marketing messaging: 
 mass campaigns for "common pets," and a separate, narrower content stream 
 (care tips, advice) for exotic pet owners.
