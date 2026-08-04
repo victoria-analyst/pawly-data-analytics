@@ -17,13 +17,13 @@ database design, SQL analysis, dashboarding, and behavioral analytics.
 - Prepared an A/B test plan
 - Presented findings in a live demo
 
-## 🔗 Links
+## Links
 - Tableau Dashboard: https://public.tableau.com/views/Book2_17832943278890/BusinessesAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - PostHog Analytics: https://eu.posthog.com/shared/5uBn7-pX5DqRN29iwugzg2whb5krgA
 - Database schema: [`/schema/pawly_db_schema.pdf`](schema/pawly_db_schema.pdf)
 - A/B Test Plan: [`/analysis/ab_test_plan.md`](analysis/ab_test_plan.md)
 
-## 🔑 Key Insights
+## Key Insights
 
 ### Business landscape (BigQuery + Tableau)
 - Platform covers **123 businesses**: 67 vet clinics, 33 pet shops, 23 grooming salons
@@ -41,17 +41,17 @@ database design, SQL analysis, dashboarding, and behavioral analytics.
 - Birth date is missing for the majority of pet records — limits personalization features (e.g. birthday campaigns)
 - Single-pet owners dominate — affects targeting for multi-pet promotions
 
-## 💡 Top Recommendations
+## Top Recommendations
 1. Fix SEO fundamentals (meta tags, Search Console, unique domain) before scaling paid acquisition
 2. Verify Google Ads UTM/attribution setup — paid traffic isn't showing in analytics at all
 3. Build retention features (favorites list, review prompts) to address 0% W2 retention
 4. Target grooming-for-exotic-pets as a differentiation opportunity
 5. Make `birth_date` a required field to unlock personalization campaigns
 
-## 🛠️ Tools
+## Tools
 BigQuery · SQL · Tableau · PostHog · A/B Testing
 
-## 📁 Repo Structure
+## Repo Structure
 - `/sql` — BigQuery queries
 - `/schema` — database schema
 - `/analysis` — full insight reports (BigQuery, PostHog, pet data, A/B plan)
