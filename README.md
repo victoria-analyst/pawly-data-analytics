@@ -6,7 +6,7 @@ Team MVP project: an aggregator platform for pet businesses in Kyiv
 My role — data analyst: 
 database design, SQL analysis, dashboarding, and behavioral analytics.
 
-⚠️ Data note: insights are based on a small sample and short time window, collected manually from open sources. Not representative of the full market — see limitations in each analysis section.
+⚠️ Data note: insights are based on a small sample and short time window, collected manually from open sources. Not representative of the full market.
 
 ## What I Did
 - Designed a BigQuery schema for the pet services database
@@ -21,6 +21,8 @@ database design, SQL analysis, dashboarding, and behavioral analytics.
 - Tableau Dashboard: https://public.tableau.com/views/Book2_17832943278890/BusinessesAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - PostHog Analytics: https://eu.posthog.com/shared/5uBn7-pX5DqRN29iwugzg2whb5krgA
 - Database schema: [`/schema/pawly_db_schema.pdf`](schema/pawly_db_schema.pdf)
+- SQL Queries: [`/sql`](sql) — [business overview](sql/01_business_overview.sql) and [pet data analysis](sql/02_pet_data_analysis.sql)
+- Insights & Analysis: [`/analysis`](analysis) — full write-ups on [businesses](analysis/insights_bigquery.md), [user behavior](analysis/insights_posthog.md), and [pet data](analysis/insights_pets.md)
 - A/B Test Plan: [`/analysis/ab_test_plan.md`](analysis/ab_test_plan.md)
 
 ## Key Insights
