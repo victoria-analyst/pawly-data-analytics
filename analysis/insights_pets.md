@@ -3,8 +3,7 @@
 ## Insights
 
 ### 1. Birth date is filled in for only a small share of pets
-Across the general dataset, `birth_date`, `age_years`, and `age_months` are 
-null for nearly all records, so real birth dates exist only for a handful. 
+Across the general dataset, `birth_date` is null for nearly all records. 
 This makes it currently impossible to reliably calculate age or birthdays 
 for most pets in the system: the field is either not required at 
 registration or owners largely skip it.
@@ -16,7 +15,8 @@ a narrow segment.
 
 ### 3. "Common pets" dominate the portfolio
 Cats and dogs make up the majority of records; exotic pets (rodents, fish, 
-birds) are a minority. This should inform assortment and content planning: 
+birds) are a minority. 
+This should inform assortment and content planning: 
 mass campaigns should target cat/dog owners, while exotic pet owners need 
 separate, narrower content.
 
